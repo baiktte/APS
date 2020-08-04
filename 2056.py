@@ -1,5 +1,5 @@
 import sys
-sys.srdin = open('input_data/2056.txt')
+sys.stdin = open('input_data/2056.txt')
 
 
 def check_month(month):
