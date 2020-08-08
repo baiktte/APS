@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('input_data/2050.txt')
+sys.stdin = open('../input_data/2050.txt')
 
 # 'A'  65
 
